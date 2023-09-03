@@ -1,0 +1,82 @@
+.image img{
+    float: right;
+}
+
+.entier{
+    border: 1px solid;
+    height: 650px;
+    
+}
+
+body{
+    background-color: blanchedalmond ;
+    color: white;
+}
+
+.formulaire{
+    background-color: coral;
+    width: 40%;
+    height: 480px;
+    padding-left: 30px;
+    
+}
+
+.formulaire {
+    margin-left: 160px;
+    margin-top: 80px;
+    padding-bottom: 13px;
+}
+
+.image{
+    margin-right: 150px;
+    
+    margin-top: 80px;
+}
+
+h1{
+    text-align: center;
+    padding-top: 30px;
+    color: darkorchid;
+}
+
+p{
+    word-spacing: 30px;
+}
+
+#mail{
+    margin-left: 10px;
+}
+
+#name{
+    margin-left: 3px;
+}
+
+P textarea{
+    margin-top: 15px;
+    margin-left: 80px;
+    height: 70px;
+    width: 290px;
+    border: 3px solid cornflowerblue;
+}
+
+P #Name , p #email , p #phone , p #people , p textarea{
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    background-color: coral;
+}
+
+P #Name , p #email , p #phone , p #people{
+    width: 300px;
+}
+
+#button{
+   width: 170px; 
+   height: 50px;
+   color: white;
+   margin-top: 20px;
+   background-image: linear-gradient(to bottom,darkorchid,lightcoral,coral);
+   border: hidden;
+   
+}
+

@@ -1,0 +1,99 @@
+.form{
+    float: right;
+    width: 55%;
+    
+}
+
+.form .left{
+    float: left;
+    margin-left: 30px;
+}
+
+.form .right{
+    float: right;
+    margin-right: 30px;
+}
+
+.left p{
+    margin-top: 46px;
+}
+
+.right p{
+    margin-top: 42px;
+}
+
+.form p{
+    line-height: 20px;
+}
+
+#fname , #lname , #company , #Email , #number , #Meal , #DD ,#draw,#AT{
+        width: 200px;
+        height: 20px;
+}
+
+.premier , .deuxieme{
+    float: right;
+    font-size: 10px;
+    text-decoration: underline;
+    color: rgba(0, 0 ,0 , 0.5);
+    margin-right: 15px;
+}
+
+
+
+.photo img{
+    width: 40%;
+    
+}
+
+.submit{
+    margin-top: 105px;
+    word-spacing: 15px;
+    float: right;
+}
+
+.submit input{
+    padding: 10px;
+}
+
+#submit{
+    background-color: green;
+    color: white;
+}
+
+#reset{
+    color: rgba(0, 0 ,0 , 0.3);
+
+}
+
+hr{
+   width: 290%;
+   height: 3px;
+   background-image: linear-gradient( to right, green ,darkgrey );
+   
+}
+
+#hr{
+    width: 30%;
+    text-align: center;
+    display: inline;
+    position: absolute;
+    margin-left: 270px;
+    top: -10px;
+    background-color: green;
+    color: white;
+}
+
+.donnate p{
+    margin-bottom: 4px;
+}
+
+.superposition{
+    position: relative;
+}
+
+
+
+
+
+
